@@ -1,0 +1,52 @@
+body{
+	background-color: silver;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+.head1{ 
+	color: Gold;
+	font-size: 200%;
+}
+#puppyPic{
+
+}
+p{
+	
+}
+.firstDiv{
+	font-family: serif;
+	font-weight: bold;
+}
+.firstDiv .link{
+	border:2px solid teal
+}
+.firstDiv #navPic{
+	width: 25pt;
+	height: 25pt;
+}
+.firstDiv #puppyPic{
+	width: 100pt;
+	height: 100pt;
+}
+.headTest #headP {
+	color: brown;
+	font-size: 50px;
+}
+.headTest #headP{
+	border-style: inset;
+	border-width: 10pt;
+	border-color: Gold;
+	color : maroon;
+	margin: 2% 30% 2% 30%
+}
+.headTest h2,h3,h4,h5,h6{
+	border-style: dotted;
+	border-color: lime;
+	font-weight: lighter;
+	margin:1% 40% 1% 40%;
+}
+.headTest
+em{
+	color: brown;
+}
